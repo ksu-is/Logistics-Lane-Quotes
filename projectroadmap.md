@@ -1,5 +1,6 @@
 - [x] Create Read.me
 - [x] Create projectroadmap.md
+- [x] Complete Sprint 1 quiz
 - [ ] Update Read.me with more detailed description
 - [ ] Add code from a Webscrape program (Antibody-Sequence-Webscrape) is an option
 - [ ] Ensure Webscrape will support required sites through testing
