@@ -1,9 +1,9 @@
 - [x] Create Read.me
 - [x] Create projectroadmap.md
-- [] Update Read.me with more detailed description
-- [] Add code from a WebScrape program
-- [] Ensure Webscrape will support required sites
-- [] Update Scrape program with logistics pricing sites equivalent to DAT
-- [] Add code from a pricing and averaging program
-- [] Test and integrate both scrape and pricing programs
+- [ ] Update Read.me with more detailed description
+- [ ] Add code from a WebScrape program
+- [ ] Ensure Webscrape will support required sites
+- [ ] Update Scrape program with logistics pricing sites equivalent to DAT
+- [ ] Add code from a pricing and averaging program
+- [ ] Test and integrate both scrape and pricing programs
 - 
