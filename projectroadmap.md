@@ -2,9 +2,9 @@
 - [x] Create projectroadmap.md
 - [x] Complete Sprint 1 quiz
 - [ ] Update Read.me with more detailed description
-- [ ] Add code from a Webscrape program (Antibody-Sequence-Webscrape) is an option
+- [x] Add code from a Webscrape program (Antibody-Sequence-Webscrape) is an option
 - [ ] Ensure Webscrape will support required sites through testing
-- [ ] Find equivalent sites that do a similar job as DAT if necessary
+- [x] Find equivalent sites that do a similar job as DAT if necessary ()
 - [ ] Update Scrape program with logistics pricing sites equivalent to DAT
 - [ ] Add code from a pricing and averaging program
 - [ ] Test and integrate both scrape and pricing programs
